@@ -1,0 +1,141 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    overflow: hidden;
+}
+
+@font-face { font-family: Muller UltraLight; src: url(https://dwweb.ru/font/MullerUltraLight.otf); }
+div.example_font {font-family: Muller UltraLight;  color: red; }
+
+
+.colBut, .colText{
+    display: flex;
+}
+.colImg{
+    width: 100px;
+}
+.rowHead{
+    border-bottom: 1px solid #0000004a;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btnCost{
+    background-color: #12121200;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btnCall{
+    background: #C7352E;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.textOne, .textTwo{
+    color: #ffff;
+    text-align: right;
+}
+.textOne{
+    margin-right: 15px;
+}
+
+.underMain{
+    text-decoration: none;
+    color: #000000;
+}
+.underMain:hover{
+    text-decoration: none;
+    color: #000000;
+}
+
+.underMainD{
+    color: #ffffff;
+}
+.underMainD:hover, .underMainP:hover{
+    color: #ffffff;
+}
+.underMainP{
+    margin-left: 1%;
+    font-size: small;
+    color: #ffffff;
+}
+
+.rowInder{
+    padding-top: 1%;
+}
+
+.imgFlag{
+    padding-right: 0px !important;
+}
+
+.ggg {
+    display: flex;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+
+
+.imgTip{
+    margin-bottom: 0px;
+}
+
+.textTip{
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.textPcl{
+    margin-bottom: 0px;
+}
+
+
+
+
+
+.colBot>p{
+    margin-bottom: 0px!important;
+}
+
+.rowConS>p{
+    margin-bottom: 0px;
+}
+.btnOnline{
+    background: #C7352E;
+box-shadow: 0px 14px 34px rgba(70, 24, 22, 0.2), 0px 4px 0px #A5342F, inset 0px 0px 7px rgba(255, 255, 255, 0.55);
+border-radius: 8px;
+color: #ffffff;
+border: none;
+}
+
+
+
+
+
+
+
+.rowCar>p{
+    margin-bottom: 5px;
+}
+
+.buttons {
+    background-color: #212121;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #left {
+    clip-path: polygon(100% 0, 0 50%, 100% 100%);
+  }
+  
+  #right {
+    clip-path: polygon(0 0, 100% 50%, 0 100%);
+  }
+

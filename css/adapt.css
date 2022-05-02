@@ -1,0 +1,2390 @@
+@media screen and (max-width: 2655px) {
+    .img{
+        background-image: url('../img/mainImg.jpg');
+        background-repeat: no-repeat;
+        height: 2050px;
+        background-size: contain;
+    }
+
+    .textTip>a{
+        font-size: 28px;
+    }
+
+    .textTip>img{
+        width: 35px;
+    }
+
+    .rowCar{
+        font-size: 18px;
+    }
+
+    .rowConi {
+        margin-left: 5% !important;
+    }
+
+    .imgMobile{
+        display: none;
+    }
+
+    .forestText{
+        margin-left: 15%;
+    }
+
+    .textPclW{
+        font-size: 33px;
+        margin-bottom: 25px;
+    }
+
+
+
+    .rowHead{
+        padding-left: 6%;
+    } 
+
+    .rowInder{
+        padding-left: 6%;
+    }
+
+    .underMain {
+        font-size: 18px;
+        margin-right: 58px;
+    }
+
+    .underMainD {
+        margin-left: 35%;
+        font-size: 18px;
+    }
+
+    .colText{
+        padding-left: 10% !important;
+    }
+
+    .colCon>p {
+        font-size: 46px;
+    }
+
+    .imgFlag {
+        width: 68px !important;
+    }
+
+    .rowK>i{
+        font-size: 30px;
+    }
+
+    .colBut{
+        padding-left: 8% !important;
+    }
+
+    .colBot>p {
+        font-size: 30px;
+    }
+
+    .btnOnline{
+        padding: 20px;
+        font-size: 32px;
+        margin-top: 50px;
+    }
+
+    .ggg {
+        width: 850px;
+        height: 450px;
+        box-shadow: 20px 24px 64px rgb(28 25 25 / 45%);
+    }
+
+    .textPcl{
+        font-size: 33px;
+    }
+
+    .imgTip {
+        margin-top: -72px;
+        width: 200%;
+    }
+
+    #element::-webkit-scrollbar {
+        width: 0;
+      }
+
+    .colli>span, .colli>p{
+        font-size: 20px;
+    }
+
+    .logo{
+        width: 100px;
+    }
+
+    .colImg>img{
+        width: 50px;
+        margin-right: 20px;
+    }
+
+    .colBut>button{
+        padding: 15px;
+        font-size: 25px;
+    }
+
+    .textNumb {
+        font-size: 27px !important;
+    }
+
+    .textWA {
+        font-size: 20px;
+    }
+
+    .colG{
+        padding-left: 300px !important;
+        padding-top: 100px;
+    }
+
+    .rowTwo{
+        padding-top: 40px;
+    }
+
+    .rowConi>div>p>img{
+        width: 85%;
+    }
+
+    .rowConS>p{
+        font-size: 26px;
+    }
+
+    .rowConS {
+        padding-top: 450px !important;
+    }
+    .textTip{
+        padding-top: 40px;
+    }
+
+    .rowCon{
+        padding-top: 5%;
+        padding-left: 6%;
+    }
+
+    .ott{
+        margin-left: 30%;
+    }
+    
+    .ott1{
+        margin-left: 60%;
+    }
+
+    .hondaText{
+        margin-left: 23%;
+    }
+}
+
+@media screen and (max-width: 2515px) {
+    .underMainD {
+        margin-left: 35%;
+    }
+
+    .underMainP {
+        margin-left: 1%;
+        font-size: 18px;
+    }
+
+    .rowCon {
+        padding-top: 5%;
+        padding-left: 9%;
+    }
+
+    .colCon>p {
+        font-size: 55px;
+    }
+
+    .rowK>i {
+        font-size: 34px;
+    }
+
+    .imgFlag {
+        width: 60px !important;
+    }
+
+    .colBot>p {
+        font-size: 31px;
+    }
+
+    .btnOnline {
+        font-size: 38px;
+    }
+
+    .rowConS {
+        padding-top: 350px !important;
+    }
+
+    .ggg {
+        width: 650px;
+        height: 350px;
+    }
+
+    .textTip {
+        padding-top: 20px;
+        width: 395px;
+    }
+
+    .textPcl {
+        font-size: 25px;
+    }
+
+    .textPclW {
+        font-size: 25px;
+    }
+
+    .imgTip{
+        margin-top: -68px;
+        width: 160%;
+    }
+
+    .rowConi>div>p>img {
+        width: 105%;
+    }
+
+    .rowConi {
+        margin-left: 8% !important;
+    }
+}
+
+@media screen and (max-width: 2370px) {
+    .colImg>img {
+        width: 40px;
+    }
+
+    .colBut>button {
+        font-size: 20px;
+    }
+
+    .colText {
+        padding-left: 5% !important;
+    }
+
+    .underMainD {
+        margin-left: 28%;
+    }
+
+    .rowConS {
+        padding-top: 300px !important;
+    }
+
+    .colBot>p {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 2205px) {
+    .rowConS {
+        padding-top: 235px !important;
+    }
+}
+
+@media screen and (max-width: 2150px) {
+    .rowConS {
+        padding-top: 185px !important;
+    }
+}
+
+@media screen and (max-width: 2170px) {
+    .colImg>img {
+        width: 33px;
+    }
+
+    .colBut>button {
+        font-size: 18px;
+    }
+
+    .underMainD {
+        margin-left: 24%;
+    }
+}
+
+@media screen and (max-width: 2050px) {
+    .underMainD {
+        margin-left: 21%;
+    }
+}
+
+@media screen and (max-width: 2020px) {
+    .rowConS {
+        padding-top: 127px !important;
+    }
+}
+
+@media screen and (max-width: 1955px) {
+
+    .colG {
+        padding-left: 181px !important;
+    }
+
+    .colBot>p {
+        font-size: 22px;
+    }
+
+    .underMainD {
+        margin-left: 18%;
+    }
+    
+    .colBut>button {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1865px) {
+    .underMainD {
+        margin-left: 16%;
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    .underMainD {
+        margin-left: 14%;
+    }
+
+    .colG {
+        padding-left: 92px !important;
+    }
+
+    .rowConS {
+        padding-top: 54px !important;
+    }
+}
+
+@media screen and (max-width: 1768px) { 
+    .colBot>p {
+        font-size: 19px;
+    } 
+
+    .colImg>img {
+        width: 29px;
+    }
+}
+
+@media screen and (max-width: 1750px) {
+    .textNumb {
+        font-size: 24px !important;
+    }
+
+    .underMainD {
+        margin-left: 9%;
+    }
+}
+
+@media screen and (max-width: 1675px) {
+    .colBot>p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1660px) {
+    .img{
+        background-image: url('../img/mainImg.jpg');
+        background-repeat: no-repeat;
+        height: 1350px;
+        background-size: contain;
+    }
+
+    .rowConS {
+        padding-top: 247px !important;
+    }
+
+    .rowConS>p {
+        font-size: 16px;
+    }
+
+    .textPc{
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+
+    .rowHead{
+        border-bottom: 1px solid #0000004a;
+        padding-left: 5%;
+        padding-right: 60px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .rowInder{
+        padding-left: 5%;
+    }
+
+    .underMain {
+        margin-right: 15px;
+        font-size: small;
+    }
+
+    .underMainD{
+        margin-left: 10%;
+        font-size: small;
+    }
+
+    .colCon>p{
+        font-size: 50px;
+        margin-bottom: 0px;
+    }
+
+    .imgFlag{
+        width: 50px !important;
+    }
+
+    #element::-webkit-scrollbar-thumb {
+        background-color: #223c50;
+    }
+    
+    #element::-webkit-scrollbar {
+        width: 10px;
+      }
+    
+      
+      #element::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        background: linear-gradient(180deg, #c9c9c9, #dbd9d9);
+      }
+
+      .rowTwo{
+        padding-top: 20px;
+    }
+
+    .btnOnline{
+        padding: 10px;
+        font-size: 23px;
+        margin-top: 20px;
+    }
+
+    .rowConi{
+        overflow-x: scroll;
+        margin-left: 139px !important;
+    }
+    #elementt::-webkit-scrollbar{
+        padding-left: 13%;
+    }
+
+    .logo{
+        width: 70px;
+    }
+
+    .colli>span, .colli>p{
+        font-size: 15px;
+    }
+
+    .colImg>img {
+        width: 30px;
+        margin-right: 5px;
+    }
+
+    .colBut>button{
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .colBut{
+        padding-left: 3% !important;
+    }
+
+    .textNumb {
+        font-size: 19px !important;
+    }
+
+    .textWA {
+        font-size: 15px;
+    }
+    .colText {
+        padding-left: 5% !important;
+    }
+
+    .underMainD {
+        margin-left: 22%;
+    }
+
+    .colG {
+        padding-left: 0px !important;
+        padding-top: 50px;
+    }
+
+    .rowK>i {
+        font-size: 20px;
+    }
+
+    .imgFlag {
+        width: 40px !important;
+    }
+
+    .colBot>p {
+        font-size: 18px;
+    }
+
+    .ggg {
+        width: 443px;
+        height: 186px;
+        box-shadow: 20px 24px 64px rgb(28 25 25 / 45%);
+    }
+
+    .textPcl {
+        font-size: 19px;
+    }
+
+    .textTip{
+        padding-top: 15px;
+    }
+
+    .imgTip {
+        margin-top: -39px;
+        width: 116.5%;
+    }
+
+    .colCon{
+        padding-left: 50px !important;
+        margin-right: 200px;
+    }
+
+    .textPclW {
+        font-size: 19px;
+        margin-bottom: 0px;
+    }
+
+    .rowConi>div>p>img {
+        width: 220px;
+    }
+
+    .rowCar {
+        font-size: 13px;
+    }
+
+    .textTip>a {
+        font-size: 10px;
+    }
+
+    .rowCon {
+        padding-top: 4%;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .colCon>p {
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 1570px) {
+    .rowConS {
+        padding-top: 202px !important;
+    }
+}
+
+@media screen and (max-width: 1480px) {
+    .rowConS {
+        padding-top: 136px !important;
+    }
+}
+
+@media screen and (max-width: 1430px) {
+    .rowConS {
+        padding-top: 127px !important;
+    }
+}
+
+@media screen and (max-width: 1450px) {
+    .rowConi {
+        margin-left: 128px !important;
+    }
+
+    .rowConS {
+        padding-top: 173px !important;
+    }
+    .colBot>p {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 1395px) {
+    .colBot>p {
+        font-size: 16px;
+    }
+
+    .rowConS {
+        padding-top: 129px !important;
+    }
+}
+
+@media screen and (max-width: 1375px) {
+    .colBot>p {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .rowConS {
+        padding-top: 92px !important;
+    }
+}
+
+@media screen and (max-width: 1340px) {
+    .rowConS {
+        padding-top: 60px !important;
+    }
+}
+
+@media screen and (max-width: 1330px) {
+    .rowConS {
+        padding-top: 180px !important;
+    }
+
+    .imgTip {
+        margin-top: -27px;
+        width: 116.5%;
+    }
+
+    .ggg {
+        height: 150px;
+    }
+
+    .colCon>p {
+        font-size: 33px;
+    }
+
+    .rowK>i {
+        font-size: 18px;
+    }
+
+    .colBot>p {
+        font-size: 15px;
+    }
+
+    .rowConi {
+        margin-left: 100px !important;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .img {
+        height: 1850px;
+    }
+
+    .ott1 {
+        margin-left: 73%;
+    }
+
+    .forestText {
+        margin-left: 12%;
+    }
+
+    .colBot>p {
+        font-size: 14px;
+    }
+
+    .imgTip {
+        margin-top: -76px;
+        width: 88%;
+    }
+
+    .textTip{
+        width: 223px;
+    }
+
+    .ggg {
+        width: 414px;
+    }    
+
+    .rowConS {
+        padding-top: 148px !important;
+    }
+
+    .colImg>img {
+        width: 25px;
+    }
+
+    .textPcl {
+        font-size: 14px;
+    }
+
+    .textPclW {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1252px) {
+    .textNumb {
+        font-size: 16px !important;
+    }
+
+    .textWA {
+        font-size: 11px;
+    }
+
+    .underMainD {
+        margin-left: 18%;
+    }
+
+    .imgTip {
+        margin-top: -26px;
+        width: 105%;
+    }
+}
+
+@media screen and (max-width: 1225px) {
+    .rowConS {
+        padding-top: 126px !important;
+    }
+
+    .colCon {
+        margin-right: 110px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .colBut>button {
+        font-size: 13px;
+    }
+
+    .underMainD {
+        margin-left: 14%;
+    }
+
+    .colBot>p {
+        font-size: 12px;
+    }
+
+    .rowConS {
+        padding-top: 102px !important;
+    }
+}
+
+@media screen and (max-width: 1155px) {
+    .colImg>img {
+        width: 24px;
+    }
+
+    .colBut>button {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 1148px) {
+
+    .underMainD {
+        margin-left: 13%;
+    }
+
+    .rowConS {
+        padding-top: 76px !important;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1130px) {
+    .colli>span, .colli>p {
+        font-size: 14px;
+    }
+
+    .textNumb {
+        font-size: 16px !important;
+    }
+}
+
+@media screen and (max-width: 1134px) {
+    .colImg>img {
+        width: 20px;
+    }
+
+    .underMainD {
+        margin-left: 11%;
+    }
+}
+
+@media screen and (max-width: 1089px) {
+    .rowConS {
+        padding-top: 53px !important;
+    }
+
+    .colBut>button {
+        font-size: 12px;
+    }
+
+    .underMainD {
+        margin-left: 8%;
+    }
+
+    .colCon>p {
+        font-size: 31px;
+    }
+
+    .rowK>i {
+        font-size: 16px;
+    }
+
+    .colBot>p {
+        font-size: 11px;
+    }
+
+    .colCon {
+        margin-right: 77px;
+    }
+
+    .rowConS {
+        padding-top: 77px !important;
+    }
+
+    .rowConS>p {
+        font-size: 12px;
+    }
+    .textNumb {
+        font-size: 15px !important;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    .logo {
+        width: 50px;
+    }
+
+    .colCon {
+        padding-left: 50px !important;
+        margin-right: 100px;
+        padding-top: 20px;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 13px;
+    }
+
+    .colImg>img {
+        width: 20px;
+        margin-right: 2px;
+    }
+
+    .colBut>button {
+        padding: 8px;
+        font-size: 10px;
+    }
+
+    .textNumb {
+        font-size: 13px !important;
+    }
+
+    .textWA {
+        font-size: 12px;
+    }
+
+    .underMain {
+        margin-right: 5px;
+        font-size: 10px;
+    }
+
+    .underMainD {
+        margin-left: 24%;
+        font-size: 10px;
+    }
+
+    .rowCon{
+        padding-top: 10px;
+    }
+
+    .colCon>p {
+        font-size: 25px;
+    }
+
+    .rowK>i {
+        font-size: 16px;
+    }
+
+    .imgFlag {
+        width: 30px !important;
+    }
+
+    .colBot>p {
+        font-size: 12px;
+    }
+
+    .btnOnline {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .ggg {
+        width: 250px;
+        height: 125px;
+    }
+
+    .textPcl {
+        font-size: 10px;
+        margin-bottom: 0px;
+    }
+    .textTip>a{
+        font-size: 10px;
+    }
+
+    .rowConS>p {
+        font-size: 11px;
+    }
+
+    .rowConi>div>p>img {
+        width: 170px;
+    }
+
+    .ott {
+        margin-left: 60px;
+    }
+
+    .ott1 {
+        margin-left: 150px;
+    }
+
+    .forestText{
+        margin-left: 22px;
+    }
+
+    .hondaText{
+        margin-left: 43px;
+    }
+
+    .rowConi {
+        margin-left: 6% !important;
+    }
+
+    .rowConS {
+        padding-top: 110px !important;
+    }
+
+    .imgTip {
+        margin-top: -20px;
+        width: 130%;
+        margin-left: -10px;
+    }
+
+    .textPclW {
+        font-size: 10px;
+        margin-bottom: 0px;
+    }
+
+    .textTip{
+        width: 345px;
+    }
+
+    .rowCon{
+        padding-left: 63px;
+        padding-top: 0px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .ott {
+        margin-left: 54px;
+    }
+
+    .forestText {
+        margin-left: 13px;
+    }
+
+    .hondaText {
+        margin-left: 35px;
+    }
+
+    .colBot>p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 1010px) {
+    .colli>span, .colli>p {
+        font-size: 12px;
+    }
+
+    .underMainP {
+        font-size: 10px !important;
+    }
+}
+
+@media screen and (max-width: 985px) {
+    .rowConS {
+        padding-top: 81px !important;
+    }
+
+    .rowConS>p {
+        font-size: 14px;
+    }
+
+    .textWA {
+        font-size: 9px;
+    }
+
+    .colBot>p {
+        font-size: 11px;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 11px;
+    }
+
+    .colImg>img {
+        width: 18px;
+    }
+
+    .underMainD {
+        margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .rowCon {
+        padding-left: 58px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .img{
+        height: 1650px;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 9px;
+    }
+
+    .colImg>img {
+        width: 13px;
+    }
+
+    .colBut>button {
+        padding: 8px;
+        font-size: 8px;
+    }
+
+    .textNumb {
+        font-size: 10px !important;
+    }
+
+    .textWA {
+        font-size: 8px;
+    }
+
+    .rowHead {
+        padding-bottom: 0px !important;
+    }
+
+    .underMain {
+        margin-right: 3px;
+        font-size: 8px;
+    }
+
+    .underMainD, .underMainP {
+        font-size: 8px !important;
+    }
+
+    .underMainD>img, .underMainP>img{
+        width: 15px !important;
+    }
+
+    .colCon{
+        margin-right: 90px;
+    }
+
+    .colCon>p {
+        font-size: 23px;
+    }
+
+    .colBot>p {
+        font-size: 11px;
+    }
+
+    .rowConS {
+        padding-top: 50px !important;
+    }
+
+    .ggg {
+        width: 230px;
+        height: 115px;
+    }
+
+    .textPcl {
+        font-size: 9px;
+    }
+
+    .textTip>a {
+        font-size: 8px;
+    }
+
+    .textTip {
+        padding-left: 10px !important;
+    }
+
+    .textTip {
+        width: 365px;
+    }
+
+    .imgTip {
+        margin-top: -17px;
+    }
+
+    .underMainD {
+        margin-left: 30%;
+    }
+
+    .colCon{
+        padding-top: 5px;
+    }
+}
+
+@media screen and (max-width: 912px) {
+    .rowConS {
+        padding-top: 90px !important;
+    }
+
+    .img {
+        height: 2650px;
+    }
+
+    .forestText {
+        margin-left: 13px;
+    }
+
+    .hondaText {
+        margin-left: 36px;
+    }
+
+    .ott {
+        margin-left: 54px;
+    }
+
+    .underMainD {
+        margin-left: 28%;
+    }
+
+    .colBot>p {
+        font-size: 10px;
+    }
+}
+
+@media screen  and (max-width: 850px) {
+    .underMainD {
+        margin-left: 25%;
+    }
+
+    .colBot>p {
+        font-size: 9px;
+    }
+    
+}
+
+@media screen and (max-width: 820px) {
+    .ott {
+        margin-left: 54px;
+    }
+
+    .forestText {
+        margin-left: 13px;
+    }
+
+    .hondaText {
+        margin-left: 36px;
+    }
+
+    .rowConS {
+        padding-top: 62px !important;
+    }
+
+    .colImg>img {
+        width: 12px;
+    }
+
+    .underMainD {
+        margin-left: 22%;
+    }
+
+    .rowConS>p {
+        font-size: 10px;
+    }
+
+    .rowConi {
+        margin-left: 7% !important;
+    }
+        
+}
+
+@media screen and (max-width: 768px) {
+    .colBot>p {
+        font-size: 8px;
+    }
+
+    .colCon>p {
+        font-size: 24px;
+    }
+
+    .rowConi>div>p>img {
+        width: 160px;
+    }
+
+    .rowConS {
+        padding-top: 30px !important;
+    }
+
+    .colImg>img {
+        width: 12px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .logo {
+        width: 40px;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 7px;
+    }
+
+    .colImg>img {
+        width: 13px;
+        margin-right: 0px;
+    }
+
+    .colBut>button {
+        padding: 5px;
+        font-size: 7px;
+        border-radius: 2px;
+    }
+
+    .textNumb {
+        font-size: 7px !important;
+    }
+
+    .textWA {
+        font-size: 5px;
+    }
+
+    .colText {
+        padding-left: 10% !important;
+    }
+
+    .rowHead {
+        padding-bottom: 0px !important;
+    }
+
+    .underMain {
+        margin-right: 5px;
+        font-size: 5px;
+    }
+    .underMainP{
+        font-size: 5px !important;
+    }
+    .underMainD {
+        margin-left: 35%;
+        font-size: 5px;
+    }
+
+    .colBot>p {
+        font-size: 9px;
+    }
+
+    .ggg {
+        width: 220px;
+        height: 106px;
+    }
+
+    .rowConS {
+        padding-top: 65px !important;
+    }
+
+    .colCon{
+        margin-right: 90px;
+    }
+
+    .btnOnline {
+        padding: 10px;
+        font-size: 12px;
+    }
+
+    .imgTip {
+        margin-top: -31px;
+        width: 140%;
+    }
+    .colli{
+        margin-top: -7px !important;
+    }
+
+    .colBut{
+        padding-left: 5% !important;
+    }
+
+    .colCon>p {
+        font-size: 20px;
+    }
+
+    .rowK>i {
+        font-size: 12px;
+    }
+
+    .textPcl {
+        font-size: 8px;
+    }
+
+    .textPclW {
+        font-size: 8px;
+    }
+
+    .textTip>a {
+        font-size: 5px;
+    }
+
+    .rowConi>div>p>img {
+        width: 130px;
+    }
+
+    .rowConS>p {
+        font-size: 10px;
+    }
+
+    .rowCar {
+        font-size: 9px;
+    }
+
+    .ott {
+        margin-left: 30px;
+    }
+
+    .ott1 {
+        margin-left: 90px;
+    }
+
+    .forestText {
+        margin-left: 4px;
+    }
+
+    .hondaText {
+        margin-left: 19px;
+    }
+
+    .colImg>img {
+        width: 10px;
+    }
+
+    .underMainD {
+        margin-left: 34%;
+    }
+
+    .colBot>p {
+        font-size: 8px;
+    }
+
+}
+
+@media screen and (max-width: 720px) {
+    .rowConS {
+        padding-top: 44px !important;
+    }
+
+    .rowCar {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 705px) {
+    .colBut>button {
+        padding: 3px;
+        font-size: 6px;
+    }
+
+    .colBot>p {
+        font-size: 6px;
+    }
+
+    .colBott{
+        padding-left: 0px !important;
+    }
+}
+
+@media screen and (max-width: 697px) {
+    .underMainD {
+        margin-left: 31%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .textNumb {
+        font-size: 5px !important;
+    }
+
+    .colImg>img {
+        width: 9px;
+    }
+
+    .textWA {
+        font-size: 4px;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 6px;
+    }
+
+    .underMainD {
+        margin-left: 27%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .colCon {
+        margin-right: 32px;
+    }
+
+    .rowConS {
+        padding-top: 31px !important;
+    }
+
+    .imgTip {
+        margin-top: -14px;
+        width: 124%;
+    }
+
+    .textPcl {
+        font-size: 9px;
+    }
+
+    .textPclW {
+        font-size: 9px;
+    }
+
+    .textTip>a {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .rowConS {
+        padding-top: 16px !important;
+    }
+
+    .rowConS>p {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 622px) {
+    .colImg>img {
+        width: 8px;
+    }
+
+    .colli>span, .colli>p {
+        font-size: 6px;
+    }
+
+    .textWA {
+        font-size: 4px;
+    }
+
+    .textWA>img{
+        width: 10px;
+    }
+
+    .underMainD {
+        margin-left: 19%;
+    }
+
+    .colCon>p {
+        font-size: 19px;
+    }
+
+    .colBot>p {
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .colCon>p {
+        font-size: 18px;
+    }
+
+    .rowConS{
+        padding-left: 0px;
+    }
+}
+
+@media screen and (max-width: 596px) {
+    .colBut>button {
+        font-size: 5px;
+    }
+
+    .colImg>img {
+        width: 7px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .img{
+        display: none;
+    }
+
+    .rowConi{
+        overflow-x: hidden;
+    }
+
+    .colBurger{
+        margin-right: 30px;
+    }
+
+    .imgMobile{
+        display: block;
+        background-image: url('../img/mainMobile.png');
+        background-repeat: no-repeat;
+        height: 1650px;
+        background-size: contain;
+    }
+
+    .logoMobile{
+        width: 70px;
+        padding: 10px;
+    }
+
+    .colNamMob{
+        font-size: 13px;
+        color: #ffff;
+    }
+
+    .burgerImg{
+        width: 35px;
+    }
+
+    .rowHeadMobile{
+        margin-right: -80px !important;
+        border: 1px solid #ffffff80;
+    }
+
+    .colConM{
+    padding-top: 35px;
+    }
+
+    .colConM>p{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 44px;
+        text-align: center;
+    }
+    .rowKM{
+        text-align: center;
+        padding-left: 114px;
+    }
+    .rowKM>i{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 26px;
+        
+    }
+    .bot>p{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 30px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .colBotM{
+        margin-top: 237px;
+    }
+
+    .colBotM>p{
+        color: #000;
+        margin-bottom: 0px;
+        font-size: 30px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .btnOnline {
+        padding: 15px;
+        font-size: 31px;
+        margin-top: 20px !important;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .ggg{
+        margin-left: 10px;
+        width: 497px;
+        height: 200px;
+        margin-top: 30px;
+        margin: 0 auto;
+    }
+
+    .textPcl {
+        font-size: 20px;
+    }
+
+    .textTip {
+        width: auto;
+    }
+
+    .textTip>a {
+        font-size: 14px;
+    }
+
+    .bot{
+        margin-top: 20px;
+    }
+
+    .imgTip{
+        margin-top: -37px;
+        width: 113%;
+        margin-left: 20px;
+    }
+
+    .rowConS {
+        padding-top: 30px !important;
+        text-align: center;
+    }
+
+    .rowConi {
+        margin-top: 20px !important;
+        margin-left: -120px !important;
+        margin-right: 0px !important;
+    }
+
+    .rowConi>div>p>img {
+        width: 268px;
+    }
+
+    .rowConS>p {
+        font-size: 26px;
+    }
+
+    .rowCar>p {
+        font-size: 21px;
+    }
+
+    .ott {
+        margin-left: 5px;
+    }
+
+    .ott1 {
+        margin-left: 153px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .colLogo {
+        margin-right: 248px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .colNamMob {
+        font-size: 12px;
+    }
+
+    .imgMobile{
+        display: block;
+        background-image: url('../img/mainMobile.png');
+        background-repeat: no-repeat;
+        height: 1950px;
+        background-size: contain;
+    }
+
+    .colConM>p {
+        font-size: 38px;
+    }
+
+    .rowKM>i {
+        font-size: 20px;
+    }
+
+    .rowKM {
+        padding-left: 130px;
+    }
+
+    .bot>p, .colBotM>p {
+        font-size: 25px;
+    }
+
+    .colBotM {
+        margin-top: 277px;
+    }
+
+    .btnOnline {
+        font-size: 26px;
+    }
+
+    .ggg {
+        width: 356px;
+        height: 157px;
+    }
+
+    .textPcl {
+        font-size: 13px;
+    }
+
+    .textTip {
+        padding-top: 20px;
+        width: 210px;
+    }
+
+    .imgTip {
+        margin-top: -24px;
+        width: 89%;
+    }
+
+    .rowConS>p {
+        font-size: 20px;
+    }
+
+    .rowConi>div>p>img {
+        width: 250px;
+    }
+
+    .rowCar>p {
+        font-size: 14px;
+    }
+
+    .ott {
+        margin-left: 75px;
+    }
+
+    .ott1 {
+        margin-left: 176px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .colBotM {
+        margin-top: 212px;
+    }
+
+    .colNamMob {
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width: 513px) {
+    .colNamMob {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 485px) {
+    .colNamMob {
+        font-size: 9px;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    .colBotM {
+        margin-top: 160px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .colBotM {
+        margin-top: 160px;
+    }
+
+    .rowKM {
+        padding-left: 70px;
+    }
+
+    .colLogo {
+        margin-right: 70px;
+    }
+
+    .colConM>p {
+        font-size: 26px;
+    }
+
+    .bot {
+        margin-top: 10px;
+    }
+
+    .colConM {
+        padding-top: 15px;
+    }
+
+    .colBotM {
+        margin-top: 180px;
+    }
+    .rowConi>div>p>img {
+        width: 230px;
+    }
+
+    .rowCar>p {
+        font-size: 12px;
+    }
+
+    .ott {
+        margin-left: 75px;
+    }
+
+    .ott1 {
+        margin-left: 160px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 420px) {
+    .colLogo {
+        margin-right: 90px;
+    }
+
+    .rowKM>i {
+        font-size: 18px;
+    }
+
+    .rowKM {
+        padding-left: 70px;
+    }
+
+    .bot>p, .colBotM>p {
+        font-size: 20px;
+    }
+
+    .colConM {
+        padding-top: 20px;
+    }
+
+    .rowConi>div>p>img {
+        width: 220px;
+    }
+
+    .rowConi {
+        margin-left: -140px !important;
+    }    
+}
+
+@media screen and (max-width: 414px) {
+    .colBotM {
+        margin-top: 195px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .colNamMob {
+        font-size: 9px;
+    }
+
+    .burgerImg {
+        width: 30px;
+    }
+}
+
+@media screen and (max-width: 473px) {
+    .colNamMob {
+        font-size: 8px;
+    }
+
+    .colConM>p {
+        font-size: 31px;
+    }
+
+    .colBotM {
+        margin-top: 197px;
+    }
+
+    .colLogo {
+        margin-right: 179px;
+    }
+
+    .rowKM {
+        padding-left: 90px;
+    }
+}
+
+
+@media screen and (max-width: 398px) {
+    .colBotM {
+        margin-top: 175px;
+    }
+}
+
+@media screen and (max-width: 385px) {
+    .img{
+        display: none;
+    }
+
+    .rowConi{
+        overflow-x: hidden;
+    }
+
+    .colLogo{
+        margin-right: 60px;
+    }
+
+    .colBurger{
+        margin-right: 30px;
+    }
+
+    .imgMobile{
+        display: block;
+        background-image: url('../img/mainMobile.png');
+        background-repeat: no-repeat;
+        height: 1650px;
+        background-size: contain;
+    }
+
+    .logoMobile{
+        width: 70px;
+        padding: 10px;
+    }
+
+    .colNamMob {
+        font-size: 7px;
+    }
+
+    .colNamMob{
+        font-size: 13px;
+        color: #ffff;
+    }
+
+    .burgerImg{
+        margin-top: 17px !important;
+        width: 30px;
+    }
+
+    .rowHeadMobile{
+        margin-right: -80px !important;
+        border: 1px solid #ffffff80;
+    }
+
+    .colConM{
+    padding-top: 20px;
+    }
+
+    .colConM>p{
+        font-size: 26px;
+    }
+    .rowKM{
+        text-align: center;
+        padding-left: 60px;
+    }
+    .rowKM>i{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 17px;
+        
+    }
+    .bot>p{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .colBotM{
+        margin-top: 160px;
+    }
+
+    .colBotM>p{
+        color: #000;
+        margin-bottom: 0px;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .btnOnline {
+        padding: 15px;
+        font-size: 18px;
+        margin-top: 20px !important;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .ggg{
+        margin-left: 10px;
+        width: 290px;
+        height: 130px;
+        margin-top: 30px;
+        margin: 0 auto;
+    }
+
+    .textPcl {
+        font-size: 9px;
+    }
+
+    .textTip {
+        width: auto;
+    }
+
+    .textTip>a {
+        font-size: 10px;
+    }
+
+    .bot{
+        margin-top: 5px;
+    }
+
+    .imgTip{
+        margin-top: -23px;
+        width: 78%;
+        margin-left: 20px;
+    }
+
+    .rowConS {
+        padding-top: 30px !important;
+        text-align: center;
+    }
+
+    .rowConi {
+        margin-top: 20px !important;
+        margin-left: -120px !important;
+        margin-right: 0px !important;
+    }
+
+    .rowConi>div>p>img {
+        width: 210px;
+    }
+
+    .rowConS>p {
+        font-size: 18px;
+    }
+
+    .ott {
+        margin-left: 65px;
+    }
+
+    .ott1 {
+        margin-left: 150px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .colNamMob {
+        font-size: 12px;
+    }
+
+    .imgTip {
+        margin-top: -28px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .colLogo {
+        margin-right: 70px;
+    }
+
+    .burgerImg {
+        width: 25px;
+    }
+
+    .colNamMob {
+        font-size: 10px;
+    }
+
+    .colBotM {
+        margin-top: 145px;
+    }
+
+    .rowConi>div>p>img {
+        width: 200px;
+    }
+
+    .rowConi {
+        margin-left: -140px !important;
+    }
+
+    .ott {
+        margin-left: 59px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .img{
+        display: none;
+    }
+
+    .imgMobile{
+        display: block;
+        background-image: url('../img/mainMobile.png');
+        background-repeat: no-repeat;
+        height: 1650px;
+        background-size: contain;
+    }
+
+    .logoMobile{
+        width: 70px;
+        padding: 10px;
+    }
+
+    .colNamMob{
+        font-size: 10px;
+    }
+
+    .burgerImg{
+        margin-top: 14px !important;
+        width: 25px;
+    }
+
+    .rowHeadMobile{
+        margin-right: -80px !important;
+        border: 1px solid #ffffff80;
+    }
+
+    .colConM>p{
+        font-size: 20px;
+    }
+    .rowKM{
+        text-align: center;
+        padding-left: 30px;
+    }
+    .rowKM>i{
+        font-size: 16px;
+        
+    }
+    .bot>p{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .colBotM{
+        margin-top: 145px;
+    }
+
+    .colBotM>p{
+        color: #000;
+        margin-bottom: 0px;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .btnOnline {
+        padding: 15px;
+        font-size: 18px;
+        margin-left: 50px;
+    }
+
+    .ggg{
+        margin-left: 10px;
+        width: 290px;
+        height: 130px;
+        margin-top: 30px;
+    }
+
+    .imgTip{
+        margin-top: -45px;
+    }
+
+    .rowConS {
+        padding-top: 30px !important;
+        text-align: center;
+    }
+
+    .rowConi {
+        margin-top: 20px !important;
+        margin-left: 40px !important;
+        margin-right: 20px !important;
+    }
+
+    .rowConi>div>p>img {
+        width: 100px;
+    }
+
+    .rowCar>p {
+        font-size: 8px;
+    }
+
+    .ott {
+        margin-left: 5px;
+    }
+
+    .ott1 {
+        margin-left: 56px;
+    }
+
+}
+
+@media screen and (max-width: 340px) {
+    .img{
+        display: none;
+    }
+
+    .imgMobile{
+        display: block;
+        background-image: url('../img/mainMobile.png');
+        background-repeat: no-repeat;
+        height: 1650px;
+        background-size: contain;
+    }
+
+    .logoMobile{
+        width: 70px;
+        padding: 10px;
+    }
+
+    .colNamMob{
+        font-size: 10px;
+    }
+
+    .burgerImg{
+        margin-top: 14px !important;
+        width: 25px;
+    }
+
+    .rowHeadMobile{
+        margin-right: -80px !important;
+        border: 1px solid #ffffff80;
+    }
+
+    .colConM>p{
+        font-size: 23px;
+    }
+    .rowKM{
+        text-align: center;
+        padding-left: 60px;
+    }
+
+    .imgFlag {
+        width: 25px !important;
+    }
+    
+    .rowKM>i{
+        font-size: 12px;
+        
+    }
+
+    .textTip{
+        width: 149px;
+    }
+    .bot>p{
+        color: #fff;
+        margin-bottom: 0px;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .colBotM>p{
+        color: #000;
+        margin-bottom: 0px;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 100;
+    }
+
+    .btnOnline {
+        padding: 15px;
+        font-size: 18px;
+        margin-left: 50px;
+    }
+
+    .ggg{
+        margin-left: 10px;
+        width: 290px;
+        height: 130px;
+        margin-top: 30px;
+        margin: auto;
+    }
+
+    .imgTip{
+        margin-top: -22px;
+    }
+
+    .rowConS {
+        padding-top: 30px !important;
+        text-align: center;
+    }
+
+    .rowConi {
+        margin-left: -80px !important;
+        margin-right: 0px !important;
+    }
+
+    .rowConi>div>p>img {
+        width: 150px;
+    }
+
+    .rowCar>p {
+        font-size: 8px;
+    }
+
+    .ott {
+        margin-left: 5px;
+    }
+
+    .ott1 {
+        margin-left: 56px;
+    }
+
+}
+
+@media screen and (max-width: 310px) {
+    .colNamMob {
+        font-size: 9px;
+    }
+
+    .colConM>p {
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .colLogo {
+        margin-right: 30px;
+    }
+
+    .colConM>p {
+        font-size: 20px;
+    }
+
+    .rowKM>i {
+        font-size: 10px;
+        padding-left: 0px;
+    }
+
+    .bot>p {
+        font-size: 12px;
+    }
+
+    .colBotM>p {
+        font-size: 12px;
+    }
+
+    .colBotM {
+        margin-top: 110px;
+    }
+
+    .btnOnline {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .colConM {
+        padding-top: 10px;
+    }
+
+    .ggg {
+        width: 250px;
+        height: 120px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .textTip{
+        width: 230px;
+    }
+
+    .imgTip {
+        margin-top: -2px;
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .rowConS>p {
+        font-size: 16px;
+    }
+
+    .rowConi>div>p>img {
+        width: 130px;
+    }
+    
+}
+
+@media screen and (max-width: 280px) {
+.rowCar>p {
+    font-size: 10px;
+}
+.ott1 {
+    margin-left: 80px;
+}
+}
